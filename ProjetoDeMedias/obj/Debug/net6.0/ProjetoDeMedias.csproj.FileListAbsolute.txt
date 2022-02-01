@@ -1,0 +1,15 @@
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\bin\Debug\net6.0\ProjetoDeMedias.exe
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\bin\Debug\net6.0\ProjetoDeMedias.deps.json
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\bin\Debug\net6.0\ProjetoDeMedias.runtimeconfig.json
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\bin\Debug\net6.0\ProjetoDeMedias.dll
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\bin\Debug\net6.0\ref\ProjetoDeMedias.dll
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\bin\Debug\net6.0\ProjetoDeMedias.pdb
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.csproj.AssemblyReference.cache
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.AssemblyInfoInputs.cache
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.AssemblyInfo.cs
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.csproj.CoreCompileInputs.cache
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.dll
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ref\ProjetoDeMedias.dll
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.pdb
+C:\Users\gslima\.vscode\repositorios\.NetStudies\ProjetoDeMedias\obj\Debug\net6.0\ProjetoDeMedias.genruntimeconfig.cache
