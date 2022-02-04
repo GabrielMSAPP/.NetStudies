@@ -1,2 +1,3 @@
 # .NetStudies
-Meus estudos com .Net
+Meus estudos com .Net.
+
